@@ -1,0 +1,25 @@
+{
+  "name": "jquery-throttle-debounce",
+  "authors": [
+    "'Cowboy' Ben Alman"
+  ],
+  "description": "jQuery throttle / debounce allows you to rate-limit your functions in multiple useful ways. Passing a delay and callback to `$.throttle` returns a new function that will execute no more than once every `delay` milliseconds. Passing a delay and callback to `$.debounce` returns a new function that will execute only once, coalescing multiple sequential calls into a single execution at either the very beginning or end.",
+  "main": [
+        "jquery.ba-throttle-debounce.js"
+  ],
+  "dependencies": {
+    "jquery-throttle-debounce": "https://github.com/cowboy/jquery-throttle-debounce.git#v1.1"
+  },
+  "moduleType": [
+    "node"
+  ],
+  "license": "http://benalman.com/about/license/",
+  "homepage": "http://benalman.com/projects/jquery-throttle-debounce-plugin/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
