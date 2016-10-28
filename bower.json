@@ -7,9 +7,6 @@
   "main": [
         "jquery.ba-throttle-debounce.js"
   ],
-  "dependencies": {
-    "jquery-throttle-debounce": "https://github.com/cowboy/jquery-throttle-debounce.git#v1.1"
-  },
   "moduleType": [
     "node"
   ],
